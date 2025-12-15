@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-boot-4
+  webflux:
+    apiversion:
+      use:
+        query-parameter: "API-Version"
